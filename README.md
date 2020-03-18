@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/badge/iOS-11-blue" align="left"> <img src="https://img.shields.io/badge/Swift-5-orange" align="center">
 
 ### Demo
 <img src="art/startAnim.gif" align="left" height="600"> <img src="art/finalAnim.gif" align="right" height="600"> 
