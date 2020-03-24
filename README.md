@@ -1,5 +1,6 @@
 <img src="https://img.shields.io/badge/Swift-5-orange"> <img src="https://img.shields.io/badge/iOS-11-blue"> <img src="https://img.shields.io/badge/License-Apache%202.0-green">
-
+ 
+ 
 ### Demo
 <img src="art/startAnim.gif" align="left"> <img src="art/finalAnim.gif" align="right"> 
 <img src="art/keyboardHandling.gif" align="left">
