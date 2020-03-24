@@ -1,9 +1,8 @@
 
-<img src="art/startAnim.gif" align="left"> <img src="art/finalAnim.gif" align="right"> 
-<img src="art/keyboardHandling.gif" align="left">
-<img src="art/signIn.png" height="600" align="left">
-<img src="art/signUp.png" height="600" align="center">
-<img src="art/info.png" height="600" align="right">
+<img src="art/startAnim.gif" align="left"> <img src="art/finalAnim.gif" align="right"><img src="art/keyboardHandling.gif" align="left">
+
+<img src="art/info.png" height="600" align="right">src="art/signUp.png" height="600" align="center"><img src="art/signIn.png" height="600" align="left"><img 
+
 
 ## More smooth animations are [here](https://www.youtube.com/playlist?list=PLEQeF1iTMw4x9f17DO2w-wPBJqCMZvRT1)
 
