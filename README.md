@@ -1,6 +1,6 @@
 ## Demo
 
-<img src="art/startAnim.gif" align="left"> <img src="art/keyboardHandling.gif" align="center"> <img src="art/finalAnim.gif" align="left">
+<img src="art/startAnim.gif" align="left"> <img src="art/keyboardHandling.gif" align="center"> <img src="art/finalAnim.gif" align="right">
 
 
 
